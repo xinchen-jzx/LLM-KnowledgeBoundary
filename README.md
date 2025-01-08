@@ -1,4 +1,6 @@
-# Perception of Knowledge Boundaries for LLMs via Semi-open-ended Question Answering
+# LLM KnowledgeBoundary
+
+> NeurIPS24 - Perception of Knowledge Boundaries for LLMs via Semi-open-ended Question Answering
 
 This repository contains code for generating semi-open-ended questions and answers using GPT-4. Additionally, we provide the questions and answers obtained from our experiments, along with their corresponding labels.
 
