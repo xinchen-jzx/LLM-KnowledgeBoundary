@@ -6,8 +6,7 @@ This repository contains code for generating semi-open-ended questions and answe
 
 Please use the data in this package with caution, as the contents are AI-generated and may contain inaccuracies. We strongly recommend that you carefully verify the truthfulness of each answer before accepting it.
 
-
----
+## Cite this work
 
 Please cite our paper if it helps🤗.
 
